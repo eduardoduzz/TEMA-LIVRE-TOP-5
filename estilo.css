@@ -1,0 +1,22 @@
+
+h1 {
+    text-shadow: red -2px 0,
+                 cyan 2px 0;
+                  
+}
+
+body{
+    text-align: center;
+    
+    font-style: italic;
+    text-decoration-color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: rgb(255, 255, 255)
+}
+
+img{
+    width: 400px;
+    height:300px;
+    align-content: center;
+}
